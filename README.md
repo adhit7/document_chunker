@@ -35,7 +35,7 @@ https://github.com/user-attachments/assets/dcca8816-a42b-4acb-aa10-3ff56d29e33f
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/doc-chunker.git
+   git clone https://github.com/adhit7/document_chunker.git
    cd doc-chunker
 
 2. Create and activate a virtual environment:
